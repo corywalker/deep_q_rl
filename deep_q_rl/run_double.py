@@ -3,8 +3,8 @@
 Execute a training run of deep-Q-Leaning with parameters that
 are consistent with:
 
-Human-level control through deep reinforcement learning.
-Nature, 518(7540):529-533, February 2015
+Deep Reinforcement Learning with Double Q-learning.
+arXiv preprint arXiv:1509.06461.
 
 """
 
